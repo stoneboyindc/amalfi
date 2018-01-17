@@ -2,9 +2,9 @@
 
 $rootOrSub='sub';
 
-$headertext='JRA - Insiders Tour – Registration Form'; 
+$headertext='JRA - Insiders Tour – Registration Form';
 
-$headerwidth='410'; 
+$headerwidth='410';
 
 include("../scripts/session-controller.php");
 include("prices2.php");
@@ -28,7 +28,7 @@ $regSection="olli";
 	<script type="text/javascript" src='custom/js/jquery.min.js' ></script>
 	<script type="text/javascript" src='custom/js/bootstrap.min.js' ></script>
 	<script type="text/javascript" src='custom/js/bootstrap-dialog.min.js'></script>
-	
+
 <style>
 body{
 border:1px solid #000;
@@ -65,7 +65,7 @@ div { font-family: Calibri, sans-serif; }
  <!-- ^^^^ page header ^^^^ -->
 
         <div id="contentbox">
-  
+
 
          <!-- ^^^^ heading margin ^^^^ -->
 
@@ -81,8 +81,7 @@ div { font-family: Calibri, sans-serif; }
 <!--
 <strong>Insiders' Tour - OLLI Students & Friends: July 6 - July 14, 2014</strong><br/><br/>
 -->
-<strong>Cost: $3,475 for tour + $500 donation to JRA</strong><br/>
-<em>(plus $<?php echo number_format($registrationFee, 0, '.', ',');?> non-refundable registration fee.)</em><br/><br/>
+<strong>Cost: $3,475 for tour + $500 tax-deductible non-refundable donation to JRA</strong><br/>
 
 <strong>Includes the following:</strong>
 <ul>
@@ -95,12 +94,12 @@ div { font-family: Calibri, sans-serif; }
     <li>Daily festival concerts.</li>
     <li>Bilingual tour leader & on-site festival staff available 24 hours a day.</li>
     <li>Airport transfers, baggage assistance, and all ground transportation.</li>
-    <li>$500 donation to the JRA (James Renwick Alliance).</li>
+    <li>$500 contribution to the JRA (James Renwick Alliance).</li>
 </ul>
 <em>Tour is not confirmed until a minimum of 10 people have registered.</em>
 
       <?php include ("includes/music-personal.php");?>
-      
+
 </div>
 
  <!-- ^^^^ content end ^^^^ -->
@@ -113,7 +112,7 @@ div { font-family: Calibri, sans-serif; }
 
  <!-- mainstage end ---------------------------------------------------------------- -->
 
- 
+
 
         <div class="push"></div>
 
@@ -128,4 +127,3 @@ div { font-family: Calibri, sans-serif; }
         </body>
 
     </html>
-
