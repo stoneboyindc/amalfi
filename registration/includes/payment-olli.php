@@ -16,7 +16,6 @@
 
 <div class="input-div-radio">
 	<div class="input-label-left-radio">Subtotal of<strong>:  $1,000</strong></div>
-    <input name="deposit" value="Yes" type="checkbox" class="input-left-radio"/>
 </div>
 
 <div style="font-size:1px; height:15px;"></div>
