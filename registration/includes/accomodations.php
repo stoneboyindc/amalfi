@@ -100,24 +100,3 @@ if($regSection=='instrumental'||$regSection=='vocal'){
 
 <div style="font-size:1px; height:10px;"></div>
 <div class="grey-line"></div>
-<?php 
-if($regSection=='instrumental'){
-?>
-<div class="reg-section-head">CONCERTO SEMINAR ADD-ON: <strong>$875</strong></div>
-<div class="input-div-radio">
-	<div class="input-label-left-radio">Add-on - Piano Program Session I (add July 15 - 18).</div>
-    <input name="addOn" value="Piano Program I addOn" type="radio" class="input-left-radio">
-</div>
-<div class="input-div-radio">
-	<div class="input-label-left-radio">Add-on - Piano Program Session II (add  July 13 - 15).</div>
-    <input name="addOn" value="Piano Program II addOn" type="radio" class="input-left-radio">
-</div>
-<div class="input-div-radio">
-	<div class="input-label-left-radio">Meal plan (dinners) for Seminar Add-on: <strong>$120</strong></div>
-    <input name="mealplanAddOn" value="mealplanAddOn" type="checkbox" class="input-left-radio">
-</div>
-<div style="font-size:1px; height:10px;"></div>
-<div class="grey-line"></div>
-<?php 
-}
-?>

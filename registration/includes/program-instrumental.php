@@ -3,11 +3,11 @@
 <div class="reg-section-head">PROGRAM SELECTIONS:</div>
 
 <div class="input-div-radio">
-	<div class="input-label-left-radio">Piano Program I:  July 3-15 </div>
+	<div class="input-label-left-radio">Piano Program I:  July 5-17 </div>
     <input name="programselection" value="Piano Program I" type="radio" class="input-left-radio"/>
 </div>
 <div class="input-div-radio">
-	<div class="input-label-left-radio">Piano Program II:  July 15-27 </div>
+	<div class="input-label-left-radio">Piano Program II:  July 18-30 </div>
     <input name="programselection" value="Piano Program II" type="radio" class="input-left-radio"/>
 </div>
 
