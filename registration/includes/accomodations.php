@@ -47,7 +47,7 @@ if($regSection=='instrumental'||$regSection=='vocal'){
     <input name="roomupgrade" value="Single" type="radio" class="input-left-radio"/>
 </div>
 <div class="input-div-radio" style="left:38px; height:30px; line-height:115%;">
-	<div class="input-label-left-radio">superior room (with sea view & balcony):<strong> add $'.number_format(540, 0, '.', ',').'</strong></div>
+	<div class="input-label-left-radio">superior room (with sea view & balcony):<strong> add $'.number_format(60, 0, '.', ',').' per day.</strong></div>
     <input name="roomupgrade" value="Superior" type="radio" class="input-left-radio"/>
 </div>';
 	} else if($regSection=='writers') {echo '<div class="input-div-radio" style="left:38px;">

@@ -100,8 +100,8 @@ $mealplanPrice['choral']=$standardmealplan;
 $mealplanPrice['olli']=$standardmealplan;
 $mealplanPrice['writers']=280;
 $mealplanPrice['writersguest']=280;
-$mealplanPrice['visual-I']=360;
-$mealplanPrice['visual-II']=360;
+$mealplanPrice['visual-I']=380;
+$mealplanPrice['visual-II']=380;
 $mealplanPrice['visual-III']=$standardmealplan;
 $mealplanPrice['hotchkiss']=$standardmealplan;
 

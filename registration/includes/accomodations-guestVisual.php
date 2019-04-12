@@ -14,10 +14,6 @@
 	<div class="input-label-left-radio"><strong>Sessions I & II:  $360</strong></div>
     <input name="mealplan" value="360" type="radio" class="input-left-radio"/>
 </div>
-<div class="input-div">
-	<div class="input-label-left-radio"><strong>Session III:  $480</strong></div>
-    <input name="mealplan" value="480" type="radio" class="input-left-radio"/>
-</div>
 <div style="font-size:1px; height:5px;"></div>
 
 <div style="position:relative; left:15px;">Please note any allergies or health concerns that might affect room and board options:</div>

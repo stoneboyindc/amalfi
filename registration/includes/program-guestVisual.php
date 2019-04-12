@@ -30,16 +30,12 @@
 	<div class="input-label-left-radio"><strong>Sessions I & II: $ 2,615</strong></div>
     <input name="programselection" value="S1" type="radio" class="input-left-radio"/>
 </div>
-<div class="input-div">
-	<div class="input-label-left-radio"><strong>Session III $3,145</strong></div>
-    <input name="programselection" value="S3" type="radio" class="input-left-radio"/>
-</div>
 <div class="input-div-radio" style="left:150px; margin-bottom:0px;">
 	<em>Hotel Supplements:</em> I prefer a 
 </div>
 
 <div class="input-div-radio" style="left:38px;">
-	<div class="input-label-left-radio">single room:<strong> add $365 for Sessions I & II or $ 475 for Session III</strong></div>
+	<div class="input-label-left-radio">single room:<strong> add $365 for Sessions I & II</strong></div>
     <input name="roomupgrade" value="Single" type="radio" class="input-left-radio"/>
 </div>
 
