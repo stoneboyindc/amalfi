@@ -2,7 +2,7 @@
 <div style="font-size:1px; height:10px;"></div>
 
 <div class="reg-section-head">PROGRAM SELECTIONS:</div>
-<div class="reg-section-head">Session I: July 8 - 17, 2019:  $<?php echo number_format($standardPrice['visual-I'], 0, '.', ',');?> </div>
+<div class="reg-section-head">Session I: July 8 - 17, 2019:</div>
 
 <div class="input-div-radio">
 	<div class="input-label-left-radio"><strong>Plein Air Painting on the Amalfi Coast</strong><em> (Katherine Knight)</em></div>
@@ -18,7 +18,7 @@
     <input name="classextensionS1" value="Studio classes Lab Fee" type="checkbox" class="input-left-radio">
 </div>
 <div>&nbsp;</div>
-<div class="reg-section-head">Session II: July 18 - 27, 2019:  $<?php echo number_format($standardPrice['visual-II'], 0, '.', ',');?></div>
+<div class="reg-section-head">Session II: July 18 - 27, 2019:</div>
 
 <div class="input-div-radio">
 	<div class="input-label-left-radio"><strong>Ceramic Tile Painting</strong><em> (Robert Devers)</em></div>
