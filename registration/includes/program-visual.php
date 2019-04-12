@@ -6,11 +6,11 @@
 
 <div class="input-div-radio">
 	<div class="input-label-left-radio"><strong>Plein Air Painting on the Amalfi Coast</strong><em> (Katherine Knight)</em></div>
-    <input name="programselection" value="S1 Exploring Watercolor on the Amalfi Coast" type="radio" class="input-left-radio"/>
+    <input name="programselection" value="S1 Plein Air Painting on the Amalfi Coast" type="radio" class="input-left-radio"/>
 </div>
 <div class="input-div-radio">
 	<div class="input-label-left-radio"><strong>Ceramic Tile Painting</strong><em> (Robert Devers)</em></div>
-    <input name="programselection" value="S1 Ceramic Sculpture" type="radio" class="input-left-radio"/>
+    <input name="programselection" value="S1 Ceramic Tile Painting" type="radio" class="input-left-radio"/>
 </div>
 <br>
 <div class="input-div-radio">
