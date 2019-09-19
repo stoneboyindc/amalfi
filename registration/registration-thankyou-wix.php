@@ -102,19 +102,12 @@ div { font-family: Calibri, sans-serif; }
 <br/><br/>Please pay your balance here through PayPal's secure system. 
                   <span style="background-color: #F0F0F0"><strong><font color="#990033">Note:</font></strong><font color="#990033"> Please add 3% to your total balance to cover the automatically assessed service fee.</font></span>
 		  <?php } ?>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-<input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="festival@musicalstudies.com">
-<input type="hidden" name="item_name" value="Balance Payment">
-<em>Registration Fees: </em>$
-<input type="Text" name="amount" value="">
-<input type="hidden" name="no_shipping" value="0">
-<input type="hidden" name="no_note" value="1">
-<input type="hidden" name="currency_code" value="USD">
-<input type="hidden" name="lc" value="US">
-<input type="hidden" name="bn" value="PP-BuyNowBF">
-<input name="submit" type="image" src="images/continue-registration.png" alt="Make payments with PayPal - it's fast, free and secure!" align="middle" border="0" />
-</form>  
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="V3ERVBU7KJCZL">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
                   <div class="grey-line"></div>
       
