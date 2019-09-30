@@ -88,20 +88,8 @@ div { font-family: Calibri, sans-serif; }
                   <P>Your registration will not be processed until we receive notification of payment online - or until we receive a check by mail - for your registration fee. </P>
         <P>&nbsp;</P>
                   <P>Please contact us with any questions at: music@amalfi-festival.org</P>
-                  <P>&nbsp;</P>
-                  <div class="grey-line"></div>
-                  
-          Pay your registration fees here through our secure system. 
-		  <?php if($program!='Vocal') { ?>
-<strong>Note:</strong> <em>Your invoice will show a 3%  fee to cover the ACMAF processing fee. </em></p>
-<form name="PrePage" method = "post" target="_blank" action = "https://Simplecheckout.authorize.net/payment/CatalogPayment.aspx"> <input type = "hidden" name = "LinkId" value ="acf3a681-2633-4538-af31-f8bd6607777d" /> <input type = "image" src ="images/continue-registration.png" /> </form> 
-
-<br/>If you prefer PayPal, you can pay your balance here through PayPal's secure system. 
-                  <span style="background-color: #F0F0F0"><strong><font color="#990033">Note:</font></strong><font color="#990033"> Please add 3% to your total balance to cover the automatically assessed service fee.</font></span>
-		  <?php } else { ?>
 <br/><br/>Please pay your balance here through PayPal's secure system. 
                   <span style="background-color: #F0F0F0"><strong><font color="#990033">Note:</font></strong><font color="#990033"> Please add 3% to your total balance to cover the automatically assessed service fee.</font></span>
-		  <?php } ?>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="V3ERVBU7KJCZL">
